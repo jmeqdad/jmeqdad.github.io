@@ -205,7 +205,7 @@ input, select, textarea {
 	}
 
 		h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: #131517;;
 		}
 
 	h2 {
@@ -2388,6 +2388,8 @@ input, select, textarea {
 			border-left: 0;
 			border-right: 0;
 			font-size: 1.3em;
+						color: #131517;
+
 		}
 
 			table tbody tr:nth-child(2n + 1) {
