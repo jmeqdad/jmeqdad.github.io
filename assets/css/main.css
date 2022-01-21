@@ -164,6 +164,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		font-size: 1.7em;
 	}
 
 	h1 {
@@ -2386,6 +2387,7 @@ input, select, textarea {
 			border: solid 1px #c9c9c9;
 			border-left: 0;
 			border-right: 0;
+			font-size: 1.3em;
 		}
 
 			table tbody tr:nth-child(2n + 1) {
